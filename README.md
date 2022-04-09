@@ -1,3 +1,6 @@
+# PROYECTO REALIZADO POR ANDRES FELIPE JIMENEZ NIETO. COD, 2195947
+# COMO ENTREGA PARA EL PARCIAL #2 DE DESARROLLO WEB.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
