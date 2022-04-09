@@ -1,5 +1,12 @@
+<<<<<<< Updated upstream
 # PROYECTO REALIZADO POR ANDRES FELIPE JIMENEZ NIETO. COD, 2195947
 # COMO ENTREGA PARA EL PARCIAL #2 DE DESARROLLO WEB.
+=======
+
+# PROYECTO HECHO POR: ANDRES FELIPE JIMENEZ, COD 2195947 
+# Como parcial de 2do corte para la asignatura de Desarrollo web.
+
+>>>>>>> Stashed changes
 
 # Getting Started with Create React App
 
